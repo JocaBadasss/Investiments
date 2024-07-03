@@ -23,6 +23,22 @@
       "category": "Ação",
       "price": 22.4,
       "createdAt": "2024-06-19T16:04:42.668Z"
+    },
+    {
+      "description": "PETR4",
+      "type": "outcome",
+      "price": 37.96,
+      "category": "Ação",
+      "createdAt": "2024-07-01T12:29:20.344Z",
+      "id": 4
+    },
+    {
+      "description": "SNAG11",
+      "type": "outcome",
+      "price": 10.1,
+      "category": "Ações",
+      "createdAt": "2024-07-01T12:48:51.873Z",
+      "id": 5
     }
   ]
 }
